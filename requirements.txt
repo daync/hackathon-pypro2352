@@ -1,6 +1,1 @@
-- Dasar-dasar desain web
-- HTML + CSS
-- Flask templat
- - Jinja variabel
- - Perutean web
-- GitHub + IDE
+
