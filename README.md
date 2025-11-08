@@ -1,5 +1,5 @@
 ## Inilah jenis proyek saya:
-> 
+> bot discord 
 
 ## Pustaka yang akan saya gunakan: - Pustaka 1 - Pustaka N
 
