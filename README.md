@@ -1,8 +1,5 @@
 ## Inilah jenis proyek saya:
 > bot discord 
 
-## Pustaka yang akan saya gunakan: - Pustaka 1 - Pustaka N
-
-## Referensi yang berguna: - Referensi 1 - Referensi N
-
-## Artikel panduan yang akan membantu saya selama pengembangan Sebuah komentar singkat yang akan membantu Anda mengingat tentang apa artikel tersebut... [kata yang dapat diklik yang akan berisi tautan] (https://link_to_the_article)
+untuk mempermudah pengguna Discord mengetahui kondisi cuaca di berbagai kota, baik di Indonesia maupun di negara lain. Bot ini sangat berguna untuk kegiatan harian, seperti merencanakan aktivitas, perjalanan, ataupun sekadar mengetahui cuaca saat ini.
+Bot ini bekerja dengan cara mengambil data cuaca dari API Open-Meteo, kemudian menampilkannya dalam bentuk pesan yang rapi dan mudah dipahami
